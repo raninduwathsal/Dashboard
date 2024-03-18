@@ -82,7 +82,7 @@ body {
 .container {
   display: grid;
   grid-template-columns: 20% 80%;
-  grid-template-rows: 1fr 8fr;
+  grid-template-rows: 1fr 10fr;
 }
 
 .sidebar {
@@ -296,11 +296,12 @@ li {
   display: flex;
   gap: 20px;
   justify-content: flex-end;
-  margin-top: 42px;
+  margin-top: 40px;
 }
 
 .card--icons img {
-  width: 20px;
+  height:160px;
+  width: auto;
 }
 
 .announcement--heading {
