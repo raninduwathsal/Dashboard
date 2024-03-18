@@ -64,15 +64,15 @@ h6 {
 
 :root {
   font-size: 14px;
-  --sky-bl-500: #0ea5e9;
+  --sky-bl-500: #38bdf8;
   --sky-bl-600: #0284c7;
-  --main-bg-cl: #f0f9ff;
+  --main-bg-cl: #eff6ff;
   --yello-cl: #facc15;
   --card-para-cl: #4d4d4d;
   --title-cl-black: #030712;
   --trend-sky-light: #e0f2fe;
   --trending-bg-pink: #fca5a5;
-  --trending-bg-neutral: #a3a3a3;
+  --trending-bg-neutral: #bbf7d0;
 }
 
 body {
